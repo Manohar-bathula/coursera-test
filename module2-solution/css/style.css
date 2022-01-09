@@ -16,7 +16,7 @@ h1 {
 
 .container {
   background-color: grey;
-  border: 2px solid black;
+  border: 1px solid black;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -24,7 +24,7 @@ h1 {
 }	
 .subtitle1 {
   background-color: #F7DC6F;
-  border: 2px solid black;
+  border: 1px solid black;
   font-size: 20px;
   font-weight: bold;
   width: 30%;
@@ -34,7 +34,7 @@ h1 {
 }
 .subtitle2 {
   background-color: #FADBD8;
-  border: 2px solid black;
+  border: 1px solid black;
   font-size: 20px;
   font-weight: bold;
   width: 30%;
@@ -44,7 +44,7 @@ h1 {
 }
 .subtitle3 {
   background-color: #2E86C1;
-  border: 2px solid black;
+  border: 1px solid black;
   font-size: 20px;
   font-weight: bold;
   width: 30%;
